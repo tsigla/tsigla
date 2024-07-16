@@ -21,5 +21,5 @@ Desenvolvendo ferramentas para aumentar a produtividade
 📫 Entre em contato:
 
 [Website pessoal](https://tsigla.github.io/site/)
-[Twitch]((https://www.twitch.tv/osigla)
+[Twitch](https://www.twitch.tv/osigla)
 🚀 Vamos construir algo incrível juntos!
