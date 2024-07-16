@@ -17,9 +17,8 @@ Atualmente em pratica HTML, CSS, Shell e Hacking.
 
 Contribuindo para projetos de código aberto
 Desenvolvendo ferramentas para aumentar a produtividade
-
 📫 Entre em contato:
 
-[Website pessoal](https://tsigla.github.io/site/)
+[Website](https://tsigla.github.io/site/)
 [Twitch](https://www.twitch.tv/osigla)
 🚀 Vamos construir algo incrível juntos!
