@@ -2,7 +2,7 @@
 
 🔧 Habilidades:
 
-Linguagens: Shell script
+Linguagens: Shell script<br>
 Ferramentas: Git, Docker, Kubernetes, Jenkins
 
 📚 Projetos:
