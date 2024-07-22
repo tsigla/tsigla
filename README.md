@@ -1,9 +1,8 @@
-👋 Olá! Eu sou Talys )sigla(
+👋 Olá! Eu sou Talys.
 
-🔧 Habilidades:
-
-Programador: Shell<br>
-Ferramentas: Git, Docker, Kubernetes, Jenkins
+🔧 Habilidades:<br>
+Programador Shell<br>
+Segurança Ofensiva. DCPT | CEH
 
 📚 Projetos:<br>
 Descrição em breve do projeto.
