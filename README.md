@@ -2,7 +2,7 @@
 
 🔧 Habilidades:
 
-Linguagens: Shell script<br>
+Programador: Shell<br>
 Ferramentas: Git, Docker, Kubernetes, Jenkins
 
 📚 Projetos:
@@ -11,7 +11,7 @@ Descrição em breve do projeto.
 
 🌱 Aprendendo:
 
-Atualmente em pratica HTML, CSS, Shell e Hacking.
+Atualmente em pratica HTML, CSS e Hacking.
 
 🎯 Interesses:
 
