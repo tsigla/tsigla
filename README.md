@@ -1,16 +1,12 @@
-👋 Olá! Eu sou Talys.
-
 🔧 Habilidades:<br>
-Programador Shell<br>
-Segurança Ofensiva. DCPT | CEH
+Segurança Ofensiva. CHFI | DCPT | CEH<br>
+Programador Shell
 
 📚 Projetos:<br>
 Descrição em breve do projeto.
 
-🌱 Aprendendo:<br>
-Atualmente em pratica HTML, CSS e Hacking.
-
 🎯 Interesses:<br>
+Foco: Eficiência em investigações digitais através da comptutação forense.
 Contribuindo para projetos de código aberto<br>
 Desenvolvendo ferramentas para aumentar a produtividade
 
