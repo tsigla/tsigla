@@ -1,22 +1,21 @@
 🔧 Habilidades:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Computação Forense: CHFI<br>
-  Segurança Ofensiva: DCPT | CEH<br>
-  Programador Shell
+  &nbsp;&nbsp;&nbsp;&nbsp;Segurança Ofensiva: DCPT | CEH<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Programador Shell: Bash | Python
 
 📚 Projetos:<br>
-  🛡️ Segurança: Pentest, hardening e detecção de anomalias.
-  🔍 Forense: Parsing de logs, extração de artefatos, triagem de evidências.
-  ⚡ Produtividade: Automação de workflows para investigações digitais
+  &nbsp;&nbsp;&nbsp;&nbsp;🛡️ Segurança: Pentest, hardening e detecção de anomalias.
+  &nbsp;&nbsp;&nbsp;&nbsp;🔍 Forense: Analise de logs, extração de artefatos, triagem de evidências.
+  &nbsp;&nbsp;&nbsp;&nbsp;⚡ Produtividade: Automação de workflows para investigações digitais
 
 🎯 Interesses:<br>
-Foco: Eficiência em investigações digitais através da comptutação forense.<br>
-Contribuindo para projetos de código aberto.<br>
-Desenvolvendo ferramentas para:
-🛡️ Aumentar a Segurança.
-🔍 Monitorar o sistema e detectar anomalias.
-⌛ Aumentar a produtividade diversas.
+  &nbsp;&nbsp;&nbsp;&nbsp;Perícia digital.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento de ferramentas para:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Aumentar a Segurança.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Monitorar o sistema e detectar anomalias.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⌛ Aumentar a produtividades diversas.
 
 📫 Entre em contato:<br>
-[E-mail](ts.sigla@gmail.com)<br>
-[Website](https://tsigla.github.io/site/)<br>
-[Twitch](https://www.twitch.tv/osigla)
+  &nbsp;&nbsp;&nbsp;&nbsp;📧[E-mail](ts.sigla@gmail.com)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🌐[Website](https://tsigla.github.io/site/)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻[Twitch](https://www.twitch.tv/osigla)
