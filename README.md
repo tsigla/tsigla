@@ -1,5 +1,6 @@
 🔧 Habilidades:<br>
-  Computação Forense: CHFI<br>
+<ul>
+<li>Computação Forense: CHFI<br>
   Segurança Ofensiva: DCPT | CEH<br>
   Programador Shell
 
@@ -20,3 +21,4 @@ Desenvolvendo ferramentas para:
 [E-mail](ts.sigla@gmail.com)<br>
 [Website](https://tsigla.github.io/site/)<br>
 [Twitch](https://www.twitch.tv/osigla)
+</ul>
