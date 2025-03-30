@@ -6,7 +6,7 @@ Programador Shell
 Descrição em breve do projeto.
 
 🎯 Interesses:<br>
-Foco: Eficiência em investigações digitais através da comptutação forense.
+Foco: Eficiência em investigações digitais através da comptutação forense.<br>
 Contribuindo para projetos de código aberto<br>
 Desenvolvendo ferramentas para aumentar a produtividade
 
