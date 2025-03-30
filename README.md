@@ -1,8 +1,9 @@
 🔧 Habilidades:<br>
-<ul>
-<li>Computação Forense: CHFI<br>
+<pre>
+  Computação Forense: CHFI<br>
   Segurança Ofensiva: DCPT | CEH<br>
   Programador Shell
+</pre>
 
 📚 Projetos:<br>
   🛡️ Segurança: Pentest, hardening e detecção de anomalias.
@@ -21,4 +22,3 @@ Desenvolvendo ferramentas para:
 [E-mail](ts.sigla@gmail.com)<br>
 [Website](https://tsigla.github.io/site/)<br>
 [Twitch](https://www.twitch.tv/osigla)
-</ul>
